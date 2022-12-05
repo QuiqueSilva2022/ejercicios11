@@ -1,6 +1,7 @@
 Body {
-    Background-color: #9be1c9;
+    Background-color: gray;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .titulo {
